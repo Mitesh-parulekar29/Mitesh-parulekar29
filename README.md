@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mitesh Parulekar</h1>
+<h1 align="center">Hello, I'm Mitesh Parulekar</h1>
 <h3 align="center">Engineering student who learns by building real, working projects</h3>
 
 <p align="center">
