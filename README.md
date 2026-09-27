@@ -43,7 +43,7 @@
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
 
-**Tools**
+**Development Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm,idea" />
 
