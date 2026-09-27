@@ -55,30 +55,55 @@
 
 #### 🏦 VBS — Virtual Banking System
 A full-stack banking platform with role-based access for customers and admins, deposits/withdrawals/transfers, a transaction passbook, and full audit logging.
+ 
+**Tech:**
 
-**Tech:** `Java` `Spring Boot` `MySQL` `HTML/CSS/JS` `Maven`
-
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=161b22)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6db33f&labelColor=161b22)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1&labelColor=161b22)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26&labelColor=161b22)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6&labelColor=161b22)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e&labelColor=161b22)
+![Maven](https://img.shields.io/badge/Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=C71A36&labelColor=161b22)
+ 
 <a href="https://github.com/Mitesh-parulekar29/VBS"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 #### 📚 Lernify — Full-Stack E-Learning Platform
 A role-gated e-learning platform with separate portals for students, instructors, and admins, JWT-based authentication, and a MySQL database managed through Drizzle ORM.
-
-**Tech:** `TypeScript` `React` `TanStack Start` `Tailwind CSS` `MySQL` `Drizzle ORM`
-
+ 
+**Tech:** 
+ 
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6&labelColor=161b22)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=161b22)
+![TanStack](https://img.shields.io/badge/TanStack_Start-0d1117?style=flat-square&logo=tanstack&logoColor=FF4154&labelColor=161b22)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4&labelColor=161b22)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1&labelColor=161b22)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-0d1117?style=flat-square&logo=drizzle&logoColor=C5F74F&labelColor=161b22)
+ 
 <a href="https://github.com/Mitesh-parulekar29/Lernify"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://lernify-seven.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
 
 #### 🌦️ whether-app — Dynamic Weather App
 A weather app that switches its background video (sunny, rainy, cloudy, snowy) to match live conditions.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
+ 
+**Tech:**
+ 
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26&labelColor=161b22)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6&labelColor=161b22)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e&labelColor=161b22)
+ 
 <a href="https://github.com/Mitesh-parulekar29/whether-app"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://whether-app-lemon.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
 
 #### 💬 Chatbot-fe — Chatbot Frontend
 A React + Vite frontend interface built to serve as the UI layer for a chatbot application.
-
-**Tech:** `React` `Vite` `JavaScript`
-
+ 
+**Tech:**
+ 
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=161b22)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646cff&labelColor=161b22)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e&labelColor=161b22)
+ 
 <a href="https://github.com/Mitesh-parulekar29/Chatbot-fe"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://chatbot-fe-nine.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 ---
@@ -100,11 +125,6 @@ A React + Vite frontend interface built to serve as the UI layer for a chatbot a
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitesh-parulekar29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mitesh's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitesh-parulekar29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitesh-parulekar29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
